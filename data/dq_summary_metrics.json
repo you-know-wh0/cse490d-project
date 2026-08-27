@@ -1,0 +1,10 @@
+{
+    "total_events_analyzed": 62194,
+    "duplicate_event_ids": 0,
+    "duplicate_player_timestamp_actions": 16131,
+    "invalid_coordinate_records": 0,
+    "duration_outliers_iqr": 2078,
+    "pass_length_outliers_iqr": 1008,
+    "events_with_360_frames": 53207,
+    "events_with_360_pct": 85.55
+}

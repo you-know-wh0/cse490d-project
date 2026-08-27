@@ -1,0 +1,11 @@
+Feature_Name,Category,Relevance_Rank,Justification
+location_x,Spatial Coordinates,1,Direct proxy for offensive pitch territory and goal threat.
+dist_to_goal,Spatial Goal Proximity,2,Non-linear determinant of probability of scoring within next n actions.
+defenders_in_goal_cone,360 Positional Snapshot,3,Measures defensive density between ball and goal mouth; captures off-ball blocking.
+closest_opp_dist,360 Defensive Pressure,4,"Quantifies real-time pressing intensity on actor, influencing pass execution risk."
+opponents_within_3m,360 Defensive Density,5,Measures immediate high-intensity suffocation / press-resistance requirement.
+forward_passing_options,360 Off-Ball Support,6,Catalytic indicator of teammate readiness for progressive combination play.
+total_visible,360 Camera & Zone Context,7,Controls for broadcast frame FOV and general box/midfield congestion.
+play_pattern,Tactical Phase,8,"Distinguishes regular open play from counter-attacks, corners, and set-pieces."
+pass_length,Action Dynamics,9,Progressive action distance directly drives delta in offensive probability.
+angle_to_goal,Spatial Goal Proximity,10,Shooting/creation angle affects both direct and secondary threat creation.
