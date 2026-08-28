@@ -1,26 +1,26 @@
 Feature,Mean_|SHAP|_Value
-duration,0.26053
-dist_to_goal,0.10497
-location_x,0.09781
-opponents_eliminated,0.0787
-midfield_progression,0.06686
-angle_to_goal,0.06543
-forward_passing_options,0.06458
-closest_opp_dist,0.05388
-line_break_power,0.04966
-teammates_visible,0.0424
-opponents_visible,0.03958
-adversity_index,0.03379
-opponents_within_5m,0.02855
-location_y,0.02548
-pattern_Regular Play,0.01247
-opponents_within_3m,0.01101
-press_broken,0.00971
-defenders_in_goal_cone,0.00684
-pattern_From Kick Off,0.00368
-pattern_From Throw In,0.003
-pattern_From Free Kick,0.00286
-pattern_From Keeper,0.00262
-pattern_From Goal Kick,0.00144
-pattern_Other,0.00012
-pattern_From Counter,0.00011
+duration,0.51109
+midfield_progression,0.50586
+opponents_eliminated,0.38914
+line_break_power,0.34702
+location_x,0.25243
+closest_opp_dist,0.25146
+adversity_index,0.23652
+dist_to_goal,0.16573
+opponents_within_5m,0.14604
+press_broken,0.10535
+opponents_within_3m,0.0893
+teammates_visible,0.06137
+forward_passing_options,0.05807
+opponents_visible,0.05071
+angle_to_goal,0.04476
+defenders_in_goal_cone,0.04181
+location_y,0.01433
+pattern_From Throw In,0.00613
+pattern_Regular Play,0.00545
+pattern_From Kick Off,0.00497
+pattern_From Free Kick,0.00163
+pattern_From Goal Kick,0.00109
+pattern_Other,0.00042
+pattern_From Keeper,0.00034
+pattern_From Counter,2e-05

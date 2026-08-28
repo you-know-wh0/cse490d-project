@@ -8,4 +8,5 @@ forward_passing_options,360 Off-Ball Support,6,Catalytic indicator of teammate r
 total_visible,360 Camera & Zone Context,7,Controls for broadcast frame FOV and general box/midfield congestion.
 play_pattern,Tactical Phase,8,"Distinguishes regular open play from counter-attacks, corners, and set-pieces."
 pass_length,Action Dynamics,9,Progressive action distance directly drives delta in offensive probability.
+opponents_eliminated,360 Line-Breaking,4,Counts opponents behind the ball-carrier (already beaten); primary signal for midfield line-breaking value.
 angle_to_goal,Spatial Goal Proximity,10,Shooting/creation angle affects both direct and secondary threat creation.

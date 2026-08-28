@@ -1,4 +1,4 @@
 Split,Samples,MAE,RMSE,R2 Score
-Training Set (60%),31549,0.7977,1.2135,0.3638
-Validation Set (20%),9864,0.9815,1.5248,0.2133
-Held-Out Test Set (20%),11794,0.8453,1.2601,0.2069
+Training Set (60%),31549,2.0345,2.9601,0.4415
+Validation Set (20%),11208,2.0583,3.1221,0.4049
+Held-Out Test Set (20%),10450,2.1201,3.12,0.4188
