@@ -17,8 +17,8 @@ position,str,331,0.53,24
 duration,float64,16900,27.17,35824
 location_x,float64,572,0.92,1193
 location_y,float64,572,0.92,800
-dist_to_goal,float64,572,0.92,38964
-angle_to_goal,float64,572,0.92,39206
+dist_to_goal,float64,572,0.92,38806
+angle_to_goal,float64,572,0.92,38258
 under_pressure,bool,0,0.0,2
 pass_length,float64,44373,71.35,11930
 pass_angle,float64,44373,71.35,15144
@@ -35,3 +35,5 @@ opponents_within_3m,float64,8987,14.45,6
 opponents_within_5m,float64,8987,14.45,8
 defenders_in_goal_cone,float64,8987,14.45,8
 forward_passing_options,float64,8987,14.45,11
+opponents_eliminated,float64,8987,14.45,12
+line_breaking_pass,bool,0,0.0,2

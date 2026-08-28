@@ -626,14 +626,24 @@ def main():
     axes[0].set_ylabel('Forward Passing Options (Visible Teammates)', fontsize=11)
     axes[0].legend(title='Defenders in 5m', fontsize=9.5, title_fontsize=10)
     
-    # 6B: Top Players by 360 High-Pressure Action Volume
-    top_pressured_players = df_events[df_events['under_pressure'] == True]['player'].value_counts().head(10)
-    axes[1].barh(top_pressured_players.index, top_pressured_players.values, color='#8856a7', edgecolor='#333', height=0.6)
-    axes[1].set_title('B. Top Players by Actions Under Pressure (Sample Tournaments)', fontsize=12, fontweight='bold')
-    axes[1].set_xlabel('Number of Pressured Actions Recorded', fontsize=11)
+    # 6B: Top Players by Line-Breaking Progressive Passes (Normalized Per Match Rate)
+    passes_360 = events_360[events_360['type'] == 'Pass'].copy()
+    p_stats = passes_360.groupby('player').agg(
+        total_passes=('event_id', 'count'),
+        total_eliminated=('opponents_eliminated', 'sum'),
+        line_breaking_passes=('line_breaking_pass', 'sum'),
+        matches=('match_id', 'nunique'),
+        position=('position', 'first')
+    )
+    p_stats['line_breaking_per_match'] = p_stats['line_breaking_passes'] / p_stats['matches']
+    top_creators = p_stats[p_stats['total_passes'] >= 50].sort_values(by='line_breaking_per_match', ascending=False).head(10)
+
+    axes[1].barh(top_creators.index, top_creators['line_breaking_per_match'], color='#2b5c8f', edgecolor='#333', height=0.6)
+    axes[1].set_title('B. Top Players by Line-Breaking Progressive Passes (Per Match Rate)', fontsize=12, fontweight='bold', pad=12)
+    axes[1].set_xlabel('Average Line-Breaking Passes per Match (Outplaying >= 2 Opponents)', fontsize=11)
     axes[1].invert_yaxis()
-    for i, v in enumerate(top_pressured_players.values):
-        axes[1].text(v + 1.5, i, f'{v:,}', va='center', fontweight='bold', fontsize=9.5)
+    for i, v in enumerate(top_creators['line_breaking_per_match']):
+        axes[1].text(v + 0.6, i, f'{v:.1f} / match', va='center', fontweight='bold', fontsize=9.5)
         
     plt.tight_layout()
     fig6_path = os.path.join(FIG_DIR, 'fig6_player_spatial_profiles_and_vaep_indicators.png')

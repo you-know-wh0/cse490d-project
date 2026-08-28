@@ -1,0 +1,24 @@
+position,mean_aura_score,std_aura_score,total_actions
+Center Defensive Midfield,1.372,0.7592,3313
+Center Back,1.3377,0.76,935
+Right Defensive Midfield,1.2962,0.692,2526
+Right Center Back,1.296,0.7248,5720
+Left Defensive Midfield,1.2877,0.7049,2675
+Left Center Back,1.2871,0.7312,5709
+Left Center Midfield,1.2172,0.6466,3298
+Right Center Midfield,1.2014,0.6346,3324
+Right Center Forward,1.1231,0.5979,694
+Right Back,1.0977,0.6078,3906
+Center Attacking Midfield,1.0912,0.557,1479
+Left Back,1.0767,0.5947,3905
+Left Center Forward,1.0387,0.5141,724
+Right Midfield,1.0371,0.5613,598
+Right Wing,1.0067,0.5366,3334
+Right Wing Back,0.9782,0.516,936
+Left Wing,0.9747,0.5189,3102
+Left Wing Back,0.9728,0.5372,749
+Center Forward,0.9635,0.5078,3076
+Left Midfield,0.9621,0.5424,588
+Goalkeeper,0.9598,0.6467,1994
+Right Attacking Midfield,0.9313,0.466,315
+Left Attacking Midfield,0.8518,0.4923,302
