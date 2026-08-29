@@ -1,27 +1,27 @@
 Feature,Mean_SHAP_Abs
-dist_to_goal,0.0005750499600056928
-location_x,0.0005710972298807333
-pressing_intensity,0.00022616392627140047
-angle_to_goal,0.00012732692345325848
-opponents_within_5m,0.0001203249412540925
-duration,0.00011897900016957734
-spatial_superiority,9.615702322227807e-05
-teammates_visible,8.298398120072688e-05
-forward_passing_options,7.782375626754199e-05
-short_combo_options,7.43581585193101e-05
-pattern_From Counter,7.005418483205811e-05
-closest_opp_dist,4.7440421333039055e-05
-opponents_visible,4.246028989314677e-05
-defenders_in_goal_cone,3.802455820930022e-05
-defensive_cover,3.53953020112343e-05
-location_y,3.0463869246808677e-05
-opponents_within_3m,2.908642250839109e-05
-under_pressure,1.936116764099222e-05
-opponents_eliminated,1.5067647002047993e-05
-pattern_Regular Play,6.7962742635728695e-06
-pattern_From Free Kick,6.091562850760926e-06
-pattern_From Throw In,4.862299457431378e-06
-pattern_Other,2.702002099158699e-06
-pattern_From Keeper,1.5193811075779644e-06
-pattern_From Goal Kick,7.756037508407664e-07
-pattern_From Kick Off,2.5427801261057037e-07
+dist_to_goal,0.0006557227221070204
+location_x,0.0006500366021232927
+pressing_intensity,0.000534227381801164
+closest_opp_dist,0.00018254833386011866
+duration,0.00015341727087399095
+opponents_within_5m,0.0001479376328765986
+forward_passing_options,0.00014287164074099182
+opponents_within_3m,0.00013004891737755536
+angle_to_goal,0.00011700149380291009
+spatial_superiority,9.887030919717727e-05
+short_combo_options,8.239817007749224e-05
+teammates_visible,7.21726441380077e-05
+opponents_visible,6.595056792115882e-05
+pattern_From Counter,5.646977320004733e-05
+defensive_cover,3.934423978285559e-05
+defenders_in_goal_cone,3.5331955700345655e-05
+location_y,3.424199304612287e-05
+under_pressure,2.8833142699719967e-05
+opponents_eliminated,2.159281537128742e-05
+pattern_Regular Play,8.670772394159554e-06
+pattern_From Throw In,6.580481819240701e-06
+pattern_From Free Kick,2.9424650308082267e-06
+pattern_Other,2.7010026173396476e-06
+pattern_From Keeper,6.536266086444076e-07
+pattern_From Goal Kick,6.087350067539959e-07
+pattern_From Kick Off,4.029826471875605e-07
