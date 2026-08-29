@@ -1,26 +1,27 @@
-Feature,Mean_|SHAP|_Value
-duration,0.51109
-midfield_progression,0.50586
-opponents_eliminated,0.38914
-line_break_power,0.34702
-location_x,0.25243
-closest_opp_dist,0.25146
-adversity_index,0.23652
-dist_to_goal,0.16573
-opponents_within_5m,0.14604
-press_broken,0.10535
-opponents_within_3m,0.0893
-teammates_visible,0.06137
-forward_passing_options,0.05807
-opponents_visible,0.05071
-angle_to_goal,0.04476
-defenders_in_goal_cone,0.04181
-location_y,0.01433
-pattern_From Throw In,0.00613
-pattern_Regular Play,0.00545
-pattern_From Kick Off,0.00497
-pattern_From Free Kick,0.00163
-pattern_From Goal Kick,0.00109
-pattern_Other,0.00042
-pattern_From Keeper,0.00034
-pattern_From Counter,2e-05
+Feature,Mean_SHAP_Abs
+dist_to_goal,0.0005750499600056928
+location_x,0.0005710972298807333
+pressing_intensity,0.00022616392627140047
+angle_to_goal,0.00012732692345325848
+opponents_within_5m,0.0001203249412540925
+duration,0.00011897900016957734
+spatial_superiority,9.615702322227807e-05
+teammates_visible,8.298398120072688e-05
+forward_passing_options,7.782375626754199e-05
+short_combo_options,7.43581585193101e-05
+pattern_From Counter,7.005418483205811e-05
+closest_opp_dist,4.7440421333039055e-05
+opponents_visible,4.246028989314677e-05
+defenders_in_goal_cone,3.802455820930022e-05
+defensive_cover,3.53953020112343e-05
+location_y,3.0463869246808677e-05
+opponents_within_3m,2.908642250839109e-05
+under_pressure,1.936116764099222e-05
+opponents_eliminated,1.5067647002047993e-05
+pattern_Regular Play,6.7962742635728695e-06
+pattern_From Free Kick,6.091562850760926e-06
+pattern_From Throw In,4.862299457431378e-06
+pattern_Other,2.702002099158699e-06
+pattern_From Keeper,1.5193811075779644e-06
+pattern_From Goal Kick,7.756037508407664e-07
+pattern_From Kick Off,2.5427801261057037e-07

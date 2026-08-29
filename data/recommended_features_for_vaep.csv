@@ -9,4 +9,9 @@ total_visible,360 Camera & Zone Context,7,Controls for broadcast frame FOV and g
 play_pattern,Tactical Phase,8,"Distinguishes regular open play from counter-attacks, corners, and set-pieces."
 pass_length,Action Dynamics,9,Progressive action distance directly drives delta in offensive probability.
 opponents_eliminated,360 Line-Breaking,4,Counts opponents behind the ball-carrier (already beaten); primary signal for midfield line-breaking value.
+pressing_intensity,360 Collective Pressure,3,Sum of 1/d for opponents within 10 yards — continuous collective pressure signal. Midfielders completing actions under high PI earn the most credit.
+central_corridor,360 Zone Flag,5,Binary flag for central channel (y=22-58). Modrić/Busquets operate here; actions in this zone have highest catalytic potential.
+spatial_superiority,360 Local Balance,6,Local teammate minus opponent count within 8m. Captures created overloads — midfielder positioning intelligence made quantitative.
+short_combo_options,360 Combination Play,7,Teammates within 5m. Measures triangle/wall-pass availability — the hallmark of elite midfield combination play under pressure.
+defensive_cover,360 Structural Depth,8,Teammates strictly behind ball carrier. Quantifies disciplined recovery cover — essential for buildup play from deep.
 angle_to_goal,Spatial Goal Proximity,10,Shooting/creation angle affects both direct and secondary threat creation.

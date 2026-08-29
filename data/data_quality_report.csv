@@ -41,3 +41,8 @@ defenders_in_goal_cone,float64,8987,14.45,12
 forward_passing_options,float64,8987,14.45,12
 opponents_eliminated,float64,8987,14.45,12
 line_breaking_pass,bool,0,0.0,2
+pressing_intensity,float64,8987,14.45,11015
+defensive_cover,float64,8987,14.45,12
+central_corridor,float64,8987,14.45,2
+spatial_superiority,float64,8987,14.45,13
+short_combo_options,float64,8987,14.45,9
