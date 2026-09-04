@@ -1,0 +1,130 @@
+player_name,total_aura_score,mean_aura_score,action_val_mean,line_breaks,total_actions,matches,position,aura_per_match
+Harry Kane,3.29107,0.00644,0.00484,0.27789,511,4,Center Forward,0.82277
+Lionel Andrés Messi Cuccittini,3.08451,0.00529,0.00792,0.47856,583,3,Right Center Forward,1.02817
+Mateo Kovačić,2.72468,0.00373,0.0023,0.33926,731,3,Left Center Midfield,0.90823
+Enzo Fernandez,2.55099,0.00373,0.00171,0.34846,683,3,Center Defensive Midfield,0.85033
+Luka Modrić,2.37665,0.00311,0.00263,0.48168,764,3,Right Center Midfield,0.79222
+Marco Verratti,2.19009,0.00303,0.00089,0.30152,723,3,Left Center Midfield,0.73003
+Alexis Mac Allister,2.17955,0.0046,0.00118,0.2384,474,3,Left Center Midfield,0.72652
+Raheem Sterling,2.09182,0.00472,0.00239,0.19187,443,4,Left Wing,0.52295
+Luke Shaw,2.08947,0.00272,0.00221,0.35463,767,4,Left Back,0.52237
+Daniel Olmo Carvajal,2.054,0.00503,0.00237,0.31127,408,2,Left Wing,1.027
+Jorge Luiz Frello Filho,2.00992,0.003,0.00171,0.307,671,3,Center Defensive Midfield,0.66997
+Kylian Mbappé Lottin,1.96588,0.00575,0.00454,0.32749,342,3,Left Wing,0.65529
+Declan Rice,1.95898,0.00324,0.00115,0.27107,605,4,Left Defensive Midfield,0.48974
+Kalvin Phillips,1.95213,0.00354,0.00103,0.22323,551,3,Right Defensive Midfield,0.65071
+Azzedine Ounahi,1.86561,0.00439,0.00272,0.38353,425,3,Right Center Midfield,0.62187
+Hakim Ziyech,1.79745,0.00342,0.00153,0.55323,526,3,Right Midfield,0.59915
+Sergio Busquets i Burgos,1.79158,0.00347,0.00105,0.40232,517,2,Center Defensive Midfield,0.89579
+Rodrigo Javier De Paul,1.77427,0.00356,0.00167,0.33066,499,3,Right Center Midfield,0.59142
+Pedro González López,1.74182,0.00355,0.00101,0.31365,491,2,Left Center Midfield,0.87091
+Aurélien Djani Tchouaméni,1.70436,0.00381,0.00409,0.39821,447,3,Right Defensive Midfield,0.56812
+Achraf Hakimi Mouh,1.68698,0.00328,0.00126,0.27626,514,3,Right Back,0.56233
+Antoine Griezmann,1.56407,0.00417,0.00307,0.37867,375,3,Center Attacking Midfield,0.52136
+Kyle Walker,1.49598,0.00221,0.00069,0.29204,678,4,Right Back,0.374
+Lorenzo Insigne,1.47474,0.00293,0.0018,0.43539,503,3,Left Wing,0.49158
+Julián Álvarez,1.46994,0.00493,-0.00105,0.11409,298,3,Left Center Forward,0.48998
+Marcelo Brozović,1.46971,0.00319,0.00192,0.24512,461,2,Center Defensive Midfield,0.73486
+Mason Mount,1.44081,0.00345,0.00107,0.29904,418,4,Center Attacking Midfield,0.3602
+Nicolò Barella,1.43965,0.00379,0.00148,0.25789,380,3,Right Center Midfield,0.47988
+Pierre-Emile Højbjerg,1.42643,0.00371,0.00158,0.36883,385,2,Right Defensive Midfield,0.71322
+Olivier Giroud,1.41657,0.00902,-0.00068,0.2293,157,3,Center Forward,0.47219
+Bukayo Saka,1.37125,0.00444,-0.00011,0.22006,309,3,Right Wing,0.45708
+Jorge Resurrección Merodio,1.30715,0.00344,0.00199,0.31053,380,2,Right Center Midfield,0.65358
+Ciro Immobile,1.28991,0.00483,-0.00409,0.10861,267,3,Center Forward,0.42997
+Martin Braithwaite Christensen,1.23761,0.00465,0.00081,0.27068,266,2,Left Attacking Midfield,0.61881
+Sofyan Amrabat,1.23535,0.00286,0.00166,0.5,432,3,Center Defensive Midfield,0.41178
+Giovanni Di Lorenzo,1.2284,0.0028,0.00214,0.36219,439,3,Right Back,0.40947
+Andrej Kramarić,1.21038,0.00452,-0.0005,0.15672,268,3,Center Forward,0.40346
+Jordi Alba Ramos,1.1959,0.00215,0.00114,0.38779,557,2,Left Back,0.59795
+Jules Koundé,1.19087,0.00313,0.00212,0.27822,381,3,Right Back,0.39696
+Federico Chiesa,1.16908,0.00375,0.00201,0.28526,312,3,Right Wing,0.38969
+Adrien Rabiot,1.15753,0.00403,0.00208,0.4007,287,2,Left Defensive Midfield,0.57876
+Nahuel Molina Lucero,1.1477,0.00348,0.00244,0.37879,330,3,Right Wing Back,0.38257
+Álvaro Borja Morata Martín,1.14712,0.0063,-0.00211,0.19231,182,2,Center Forward,0.57356
+Jordan Brian Henderson,1.13128,0.0029,0.00106,0.31282,390,4,Left Defensive Midfield,0.28282
+Sofiane Boufal,1.10596,0.00421,0.00218,0.42586,263,3,Left Midfield,0.36865
+Ivan Perišić,1.08833,0.00292,0.00121,0.39678,373,3,Left Wing,0.36278
+Mikkel Damsgaard,1.08361,0.00589,0.00344,0.28804,184,2,Right Attacking Midfield,0.5418
+Selim Amallah,1.06778,0.00483,0.00364,0.21719,221,3,Left Center Midfield,0.35593
+Ferrán Torres García,1.00479,0.00431,0.00026,0.3133,233,2,Right Wing,0.5024
+Youssef En-Nesyri,1.00095,0.00642,-0.00022,0.08333,156,3,Center Forward,0.33365
+Thomas Delaney,0.99176,0.00443,0.00314,0.28571,224,2,Left Defensive Midfield,0.49588
+Mario Pašalić,0.98,0.00483,0.00238,0.21675,203,3,Right Wing,0.32667
+Ousmane Dembélé,0.97274,0.00391,0.00174,0.29317,249,3,Right Wing,0.32425
+Gerard Moreno Balaguero,0.96932,0.00497,0.00083,0.34872,195,2,Center Forward,0.48466
+Theo Bernard François Hernández,0.96717,0.00301,0.00197,0.29595,321,3,Left Back,0.32239
+Emerson Palmieri dos Santos,0.95514,0.00316,0.00125,0.28146,302,3,Left Back,0.31838
+Randal Kolo Muani,0.92927,0.00788,0.00881,0.26271,118,2,Right Wing,0.46464
+Domenico Berardi,0.92645,0.00526,0.0042,0.17614,176,3,Left Wing,0.30882
+Joakim Mæhle,0.89635,0.00402,0.00301,0.287,223,2,Left Wing Back,0.44818
+César Azpilicueta Tanco,0.85582,0.00211,0.00017,0.29064,406,2,Right Back,0.42791
+Nicolás Alejandro Tagliafico,0.85556,0.00336,0.00249,0.3451,255,3,Left Wing Back,0.28519
+Yussuf Yurary Poulsen,0.8416,0.00543,0.0015,0.27742,155,2,Center Forward,0.4208
+Jude Bellingham,0.83976,0.00402,0.00195,0.26316,209,2,Left Defensive Midfield,0.41988
+Bruno Petković,0.8228,0.00531,-0.00167,0.27097,155,3,Center Forward,0.27427
+Lovro Majer,0.81712,0.00382,0.00392,0.28037,214,3,Left Center Midfield,0.27237
+Cristian Gabriel Romero,0.80878,0.00205,0.00141,0.46193,394,3,Right Center Back,0.26959
+Harry Maguire,0.79914,0.00087,0.00049,0.36087,920,4,Left Center Back,0.19978
+John Stones,0.79031,0.00095,0.00071,0.24519,832,4,Right Center Back,0.19758
+Yahia Attiyat allah,0.78084,0.00298,0.00393,0.4542,262,3,Left Back,0.26028
+Marcus Thuram,0.77863,0.00502,0.0019,0.28387,155,2,Left Wing,0.38932
+Leandro Daniel Paredes,0.77291,0.00283,0.00646,0.42491,273,3,Right Center Midfield,0.25764
+Nikola Vlašić,0.72925,0.00477,0.00219,0.17647,153,3,Right Wing,0.24308
+Giorgio Chiellini,0.70729,0.0013,0.00184,0.27256,543,3,Left Center Back,0.23576
+Nicolás Hernán Otamendi,0.69746,0.00133,0.00076,0.25573,524,3,Center Back,0.23249
+Lautaro Javier Martínez,0.68199,0.00784,0.01286,0.03448,87,2,Left Center Forward,0.341
+Ángel Fabián Di María Hernández,0.67862,0.00552,0.00495,0.19512,123,2,Right Wing,0.33931
+Josip Juranović,0.64682,0.00185,0.00154,0.29429,350,2,Right Back,0.32341
+Kasper Dolberg,0.64661,0.00509,0.00306,0.19685,127,2,Center Forward,0.3233
+Marcos Javier Acuña,0.63875,0.0042,0.00237,0.34868,152,2,Left Wing Back,0.31938
+Aymeric Laporte,0.61452,0.00083,0.00065,0.42375,741,2,Right Center Back,0.30726
+Borna Sosa,0.60894,0.00296,0.00191,0.35922,206,2,Left Back,0.30447
+Jadon Sancho,0.60713,0.00353,0.00147,0.21512,172,2,Right Wing,0.30356
+Youssouf Fofana,0.59978,0.00403,0.00278,0.30872,149,2,Left Defensive Midfield,0.29989
+Raphaël Varane,0.57661,0.00147,0.00137,0.36387,393,3,Right Center Back,0.1922
+Jens Stryger Larsen,0.57416,0.00314,0.00164,0.40984,183,2,Right Wing Back,0.28708
+Mikel Oyarzabal Ugarte,0.56147,0.00303,9e-05,0.16216,185,2,Right Wing,0.28074
+Mislav Oršić,0.55056,0.00328,0.00182,0.30952,168,3,Left Midfield,0.18352
+Achraf Dari,0.53748,0.00192,0.00235,0.25714,280,3,Right Center Back,0.17916
+Bryan Cristante,0.5305,0.00402,0.00055,0.31061,132,2,Left Center Midfield,0.26525
+Christian Nørgaard,0.5253,0.00362,0.00173,0.22759,145,2,Right Attacking Midfield,0.26265
+Philip Foden,0.52247,0.00371,0.00169,0.19858,141,2,Center Attacking Midfield,0.26124
+Jannik Vestergaard,0.51637,0.00247,0.00397,0.35885,209,2,Left Center Back,0.25818
+Pau Francisco Torres,0.51605,0.00117,0.00063,0.31136,440,2,Left Center Back,0.25802
+Kieran Trippier,0.49614,0.00295,0.00182,0.30952,168,3,Left Back,0.16538
+Dayotchanculle Upamecano,0.46166,0.0016,0.00165,0.46713,289,2,Left Center Back,0.23083
+Rodrigo Hernández Cascante,0.4554,0.0035,0.00145,0.24615,130,2,Left Center Midfield,0.2277
+Leonardo Bonucci,0.42062,0.00064,0.00203,0.54434,654,3,Right Center Back,0.14021
+Joško Gvardiol,0.39598,0.00071,0.00128,0.29676,556,3,Left Center Back,0.13199
+Andrea Belotti,0.39043,0.00494,0.00058,0.26582,79,3,Center Forward,0.13014
+Marcos Llorente Moreno,0.38975,0.00267,-0.00098,0.13699,146,2,Right Center Midfield,0.19488
+Simon Thorup Kjær,0.3798,0.00147,0.0028,0.25194,258,2,Center Back,0.1899
+Daniel Wass,0.37849,0.00289,0.00187,0.30534,131,2,Right Wing Back,0.18924
+Marko Livaja,0.36348,0.00438,-0.00113,0.33735,83,2,Center Attacking Midfield,0.18174
+Andreas Christensen,0.35607,0.00183,0.00168,0.48205,195,2,Right Center Back,0.17804
+Manuel Locatelli,0.34431,0.00499,0.00248,0.21739,69,2,Right Center Midfield,0.17216
+Kingsley Coman,0.31749,0.00429,0.0109,0.32432,74,2,Right Wing,0.15874
+Federico Bernardeschi,0.26957,0.00481,0.00133,0.33929,56,2,Left Wing,0.13478
+Paulo Bruno Exequiel Dybala,0.26808,0.0047,0.01325,0.42105,57,2,Left Center Forward,0.13404
+Jack Grealish,0.26658,0.00242,0.00203,0.31818,110,3,Left Wing,0.08886
+Joachim Andersen,0.26578,0.00223,0.00233,0.35294,119,2,Right Center Back,0.13289
+Jawad El Yamiq,0.24688,0.00065,0.00113,0.26178,382,3,Right Center Back,0.08229
+Mathias Jensen,0.23827,0.00477,0.00292,0.22,50,2,Left Center Midfield,0.11914
+Lisandro Martínez,0.23146,0.00201,0.00204,0.6087,115,2,Left Center Back,0.11573
+Marcus Rashford,0.22736,0.00284,0.00184,0.2375,80,3,Left Wing,0.07579
+Ibrahima Konaté,0.22076,0.00162,0.00339,0.24265,136,2,Left Center Back,0.11038
+Gonzalo Ariel Montiel,0.21949,0.00268,0.01957,0.06098,82,2,Right Wing Back,0.10974
+Dejan Lovren,0.16158,0.0004,0.00086,0.27901,405,2,Right Center Back,0.08079
+Germán Alejandro Pezzella,0.14417,0.0018,0.00063,0.275,80,2,Right Center Back,0.07208
+Thiago Alcântara do Nascimento,0.09172,0.00131,-0.00723,0.54286,70,2,Right Center Midfield,0.04586
+Badr Banoun,0.03824,0.00055,0.00271,0.08696,69,2,Center Back,0.01912
+Romain Saïss,-0.01862,-0.00028,0.00103,0.40299,67,2,Left Center Back,-0.00931
+Kasper Schmeichel,-0.43672,-0.00331,-0.00403,0.53788,132,2,Goalkeeper,-0.21836
+Damián Emiliano Martínez,-0.65911,-0.00471,-0.00272,1.09286,140,3,Goalkeeper,-0.2197
+Hugo Lloris,-0.70578,-0.00467,-0.00579,0.6755,151,3,Goalkeeper,-0.23526
+Jordan Pickford,-1.34283,-0.00537,-0.00589,0.564,250,4,Goalkeeper,-0.33571
+Gianluigi Donnarumma,-1.51734,-0.00632,-0.00645,0.37083,240,3,Goalkeeper,-0.50578
+Dominik Livaković,-1.57184,-0.0079,-0.0068,0.26131,199,3,Goalkeeper,-0.52395
+Yassine Bounou,-1.61988,-0.0088,-0.00493,0.40217,184,3,Goalkeeper,-0.53996
+Unai Simón Mendibil,-1.75274,-0.0074,-0.00683,0.21519,237,2,Goalkeeper,-0.87637
