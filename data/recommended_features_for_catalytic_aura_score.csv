@@ -1,0 +1,35 @@
+Feature_Name,Category,Relevance_Rank,Type,Justification
+location_x,Spatial Coordinates,1,Numeric,Direct proxy for offensive pitch territory and goal threat.
+location_y,Spatial Coordinates,2,Numeric,Pitch lateral coordinate; captures flank vs central positioning.
+dist_to_goal,Goal Proximity,3,Numeric,Non-linear determinant of scoring probability over next n actions.
+angle_to_goal,Goal Proximity,4,Numeric,Angular sightline to goal mouth; dictates shooting vs passing viability.
+closest_opp_dist,360 Defensive Pressure,5,Numeric,"Immediate pressing proximity on actor, influencing execution risk."
+closest_teammate_dist,360 Off-Ball Support,6,Numeric,Distance to nearest emergency passing outlet under pressure.
+opponents_within_3m,360 Defensive Density,7,Numeric,Immediate high-intensity suffocation / press-resistance requirement.
+opponents_within_5m,360 Defensive Density,8,Numeric,Medium-range pressing ring density constraining actor options.
+defenders_in_goal_cone,360 Positional Snapshot,9,Numeric,Defensive blockers between ball and goal; captures off-ball blocking.
+pressing_intensity,360 Collective Pressure,10,Numeric,Continuous sum of 1/d within 10 yards; rewards multi-man press resistance.
+opponents_eliminated,360 Line-Breaking,11,Numeric,Opponents bypassed behind the ball; primary signal for midfield penetrative impact.
+forward_passing_options,360 Off-Ball Support,12,Numeric,Teammates positioned >= 2 yards ahead available for progressive play.
+short_combo_options,360 Combination Play,13,Numeric,Teammates within 5.46 yards for wall-pass / one-two combination play.
+spatial_superiority,360 Local Balance,14,Numeric,Local teammate minus opponent count within 8m; quantifies created overloads.
+defensive_cover,360 Structural Depth,15,Numeric,Teammates strictly behind ball carrier; measures buildup safety and rest-defense.
+central_corridor,360 Zone Flag,16,Numeric,Binary flag for central channel (y=22-58) where catalytic orchestrators operate.
+teammates_visible,360 Context,17,Numeric,Total tracked teammates in broadcast FOV; controls for camera coverage.
+opponents_visible,360 Context,18,Numeric,Total tracked opponents in broadcast FOV; controls for defensive block density.
+line_break_ratio,Relational Interaction,19,Numeric,Opponents eliminated divided by visible opponents; normalizes line breaks.
+pressure_relief,Relational Interaction,20,Numeric,Interaction of pressing intensity and spatial superiority under pressure.
+space_creation_index,Relational Interaction,21,Numeric,Ratio of short combo options to nearby defenders; measures pocket escape.
+pass_progression_ratio,Relational Interaction,22,Numeric,Forward passing options relative to visible teammates; measures progression readiness.
+under_pressure,On-Ball State,23,Numeric,Binary indicator of immediate physical pressure during action execution.
+duration,Action Dynamics,24,Numeric,Action execution duration in seconds; distinguishes quick releases from paused play.
+prev_pressing_intensity,Sequential Lag,25,Numeric,Pressure level on preceding action in possession; captures transition tempo.
+prev_action_value,Sequential Lag,26,Numeric,Catalytic threat value created by the immediate prior action in possession.
+dist_from_prev,Sequential Lag,27,Numeric,Spatial displacement distance from preceding action; captures ball movement speed.
+dx_from_prev,Sequential Lag,28,Numeric,Longitudinal progression delta from previous action; captures pitch penetration.
+possession_action_num,Sequential Lag,29,Numeric,Action sequence position within possession chain; distinguishes early buildup from end-chain attacks.
+type_name,Action Context,30,Categorical,"Primary action type (Pass, Carry, Duel, Block, Recovery); critical state determinant."
+play_pattern_name,Tactical Phase,31,Categorical,"Tactical origin of possession (Regular Play, Counter, Corner, Free Kick)."
+prev_type_name,Sequential Lag,32,Categorical,"Action type of preceding event (e.g., pass following recovery vs carry)."
+position_name,Positional Context,33,Categorical,Granular 24-class positional assignment of actor (approved by faculty).
+role,Role Baseline,34,Categorical,"Broad tactical group (Midfielder, Forward, Defender/GK); calibrates replacement baseline."
